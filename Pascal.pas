@@ -9,5 +9,5 @@ begin
     read(b);
     read(c);
     x := (a * 2 + b * 3 + c * 5) / 10;
-    writeln('MEDIA = ',x:-1:1);
+    writeln('MEDIA = ', x:-1:1);
 end.
