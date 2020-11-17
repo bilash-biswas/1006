@@ -1,6 +1,6 @@
 import java.util.Scanner
 fun main(args: Array<String>) {
-   val read = Scanner(System.`in`)
+    val read = Scanner(System.`in`)
     var num1 = read.nextFloat()
     var num2 = read.nextFloat()
     var num3 = read.nextFloat()
